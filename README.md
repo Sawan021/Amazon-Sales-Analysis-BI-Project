@@ -15,6 +15,9 @@ https://docs.google.com/spreadsheets/d/1h3EsPf-fTLrzpP7sGeyuRnGBXrdJRcXY/edit?us
 Business Intelligence
 ## DOMAIN:
 E-commerce
+## Dashboard
+![SalesDashboard](https://user-images.githubusercontent.com/68999293/204721107-aa66d054-2d7a-4c6a-b776-fe7077dcb20c.jpg)
+
 ## PROGRAMMING LANGUAGE:
 PYTHON
 ## TOOLS:
